@@ -1,0 +1,29 @@
+table, tr, td, th {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: 1px solid rgb(112, 112, 112);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px 30px;
+}
+
+table {
+    width: 100%;
+}
+
+ul {
+    text-align: left;
+}
+
+.cor-header {
+    background-color: #b3c5c7;
+}
+
+.nota {
+    padding-inline: 30px;
+    font-weight: bold;
+}
+
+tr:hover {
+    background-color: #b3c5c77e;
+}
